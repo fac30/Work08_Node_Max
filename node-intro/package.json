@@ -1,0 +1,27 @@
+{
+  "name": "intro",
+  "version": "1.0.0",
+  "description": "npm introduction workshop",
+  "main": "add.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fac30/Work08_Node_Max.git"
+  },
+  "keywords": [
+    "ascii",
+    "art",
+    "workshop"
+  ],
+  "author": "Maxime Downe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fac30/Work08_Node_Max/issues"
+  },
+  "homepage": "https://github.com/fac30/Work08_Node_Max#readme",
+  "dependencies": {
+    "figlet": "^1.7.0"
+  }
+}
